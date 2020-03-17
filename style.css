@@ -1,0 +1,14 @@
+.wrap {
+font-family: 'Roboto', sans-serif;
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i&display=swap');
+}
+.inner {
+font-family: 'Bellota', cursive;
+@import url('https://fonts.googleapis.com/css?family=Bellota&display=swap&subset=cyrillic');
+color: red;
+} 
+.title {
+font-family: 'Yanone Kaffeesatz', sans-serif;
+@import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700&display=swap');
+color: blue;
+}
